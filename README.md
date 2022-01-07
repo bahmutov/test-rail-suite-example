@@ -1,6 +1,6 @@
 # test-rail-suite-example
 
-![cypress version](https://img.shields.io/badge/cypress-9.2.0-brightgreen) ![cypress-testrail-simple version](https://img.shields.io/badge/cypress--testrail--simple-1.3.0-brightgreen)
+![cypress version](https://img.shields.io/badge/cypress-9.2.0-brightgreen) ![cypress-testrail-simple version](https://img.shields.io/badge/cypress--testrail--simple-1.4.0-brightgreen)
 [![CircleCI](https://circleci.com/gh/bahmutov/test-rail-suite-example/tree/main.svg?style=svg)](https://circleci.com/gh/bahmutov/test-rail-suite-example/tree/main) [![ci](https://github.com/bahmutov/test-rail-suite-example/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bahmutov/test-rail-suite-example/actions/workflows/ci.yml) [![renovate-app badge][renovate-badge]][renovate-app]
 
 > Example project reporting a suite of test results to TestRail
