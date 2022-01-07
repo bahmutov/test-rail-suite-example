@@ -7,6 +7,8 @@
 
 Read the blog post [Cypress And TestRail](https://glebbahmutov.com/blog/cypress-and-testrail/). [TestRail Dashboard](https://bahmutov.testrail.io/index.php?/projects/overview/3)
 
+## Other projects
+
 - [cypress-testrail-simple](https://github.com/bahmutov/cypress-testrail-simple) plugin with [API key](https://www.gurock.com/testrail/docs/api/getting-started/accessing#username_and_api_key)
 - [test-rail-example](https://github.com/bahmutov/test-rail-example) is just like this example, but without using TestRail suites.
 
